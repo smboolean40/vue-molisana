@@ -77,6 +77,8 @@ export default {
 				.product__name{
 					text-align: center;
 					font-weight: 500;
+					width: 60%;
+					margin: 0 auto;
 				}
 
 				.product__image{
