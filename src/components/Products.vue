@@ -4,7 +4,7 @@
 		<h2>Lista Prodotti</h2>
 		<div class="products">
 			<div class="product">
-				<img src="https://picsum.photos/200/300" alt="">
+				<img class="product__image" src="https://www.lamolisana.it/wp-content/uploads/2021/04/1-spaghetto-quadrato.jpg" alt="">
 				<div class="product__name">
 					Nome Pasta
 				</div>
@@ -37,6 +37,15 @@ export default {
 
 			.product{
 				width: 25%;
+				border: 1px solid black;
+
+				.product__name{
+					text-align: center;
+				}
+
+				.product__image{
+					width: 100%;
+				}
 			}
 		}
 	}
