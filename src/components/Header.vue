@@ -1,7 +1,7 @@
 <template>
 	<header>
 		<div class="logo">
-			<img src="@/assets/images/logo.png" alt="Logo Molisana">
+			<img :src="require('@/assets/images/' + logo)" alt="Logo Molisana">
 		</div>
 		<nav>
 			<ul>
@@ -40,6 +40,7 @@ export default {
                     current: false,
                 },
             ],
+			logo: "logo.png"
 		}
 	}
 }

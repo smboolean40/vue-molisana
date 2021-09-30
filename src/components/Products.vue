@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
+	section {
+		background-image: url("../assets/images/bg-prods.jpg");
+	}
 </style>
