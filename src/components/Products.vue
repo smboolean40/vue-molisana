@@ -1,5 +1,6 @@
 <template>
 	<section>
+		<!-- TODO: Pasquale -->
 		<h2>Tutti i prodotti</h2>
 	</section>
 </template>
