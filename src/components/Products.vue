@@ -56,7 +56,7 @@ export default {
 
 	section {
 		background-image: url("../assets/images/bg-prods.jpg");
-		padding-top: 60px;
+		padding: 60px 0;
 		color: $mainColor;
 
 		h2{
