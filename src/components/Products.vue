@@ -17,6 +17,28 @@
 				</div>
 
 			</div>
+			<div class="product">
+				<img class="product__image" src="https://www.lamolisana.it/wp-content/uploads/2021/04/1-spaghetto-quadrato.jpg" alt="">
+				<div class="product__name">
+					N.4 Spaghetto Quadrato Bucato
+				</div>
+
+			</div>
+			<div class="product">
+				<img class="product__image" src="https://www.lamolisana.it/wp-content/uploads/2021/04/1-spaghetto-quadrato.jpg" alt="">
+				<div class="product__name">
+					N.4 Spaghetto Quadrato Bucato
+				</div>
+
+			</div>
+			<div class="product">
+				<img class="product__image" src="https://www.lamolisana.it/wp-content/uploads/2021/04/1-spaghetto-quadrato.jpg" alt="">
+				<div class="product__name">
+					N.4 Spaghetto Quadrato Bucato
+				</div>
+
+			</div>
+
 
 		</div>
 	</section>
@@ -48,7 +70,7 @@ export default {
 
 			.product{
 				width: 25%;
-				margin: 2px;
+				border: 2px solid #dbe9ff;
 				background-color: #fff;
 				padding: 25px 0;
 
