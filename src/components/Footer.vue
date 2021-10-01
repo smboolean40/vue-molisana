@@ -2,7 +2,7 @@
 	<footer class="container">
 		<!-- TODO: Maria -->
 		<div class="logo">
-			<img src="@/assets/images/logo.png" alt="">
+			<img src="../assets/images/logo.png" alt="">
 		</div>
 		<div class="list">
 			<h2>PASTIFICIO</h2>

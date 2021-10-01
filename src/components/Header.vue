@@ -1,7 +1,7 @@
 <template>
 	<header>
 		<div class="logo">
-			<img :src="require('@/assets/images/' + logo)" alt="Logo Molisana">
+			<img :src="require('../assets/images/' + logo)" alt="Logo Molisana">
 		</div>
 		<nav>
 			<ul>
